@@ -11,6 +11,7 @@ echo "Today is " . date("Y/m/d") . "<br>";
 echo "Today is " . date("Y.m.d") . "<br>";
 echo "Today is " . date("Y-m-d") . "<br>";
 echo "Today is " . date("l");
+  
 ?>
 <a href="info.php">Click here</a>
 </body>
